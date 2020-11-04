@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "függvények1", "függvények1.csproj", "{DCE5A181-B11E-405A-AC14-8825B37E268A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE5A181-B11E-405A-AC14-8825B37E268A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE5A181-B11E-405A-AC14-8825B37E268A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE5A181-B11E-405A-AC14-8825B37E268A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE5A181-B11E-405A-AC14-8825B37E268A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CAE7875-B594-4939-96BA-AAE3C313A3F4}
+	EndGlobalSection
+EndGlobal

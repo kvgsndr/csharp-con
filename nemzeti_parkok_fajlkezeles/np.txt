@@ -1,0 +1,11 @@
+﻿Nemzeti_Park;Igazgatóság;Terület(ha);Alapítva
+Hortobágyi;Debrecen;82000;1973
+Kiskunsági;Kecskemét;53000;1975
+Bükki;Eger;40200;1976
+Aggteleki;Jósvafő;20170;1985
+Fertő-Hanság;Sarród;23731;1991
+Duna-Dráva;Pécs;50000;1996
+Duna-Ipoly;Budapest;60300;1997
+Balaton-felvidéki;Csopak;57000;1997
+Kőrös-Maros;Szarvas;50100;1997
+Őrségi;Őriszentpéter;43927;2002

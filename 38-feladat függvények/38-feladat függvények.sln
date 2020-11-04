@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "38-feladat függvények", "38-feladat függvények.csproj", "{99D794B6-8988-4E82-A5A6-2BFB6F4C9B56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99D794B6-8988-4E82-A5A6-2BFB6F4C9B56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D794B6-8988-4E82-A5A6-2BFB6F4C9B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D794B6-8988-4E82-A5A6-2BFB6F4C9B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D794B6-8988-4E82-A5A6-2BFB6F4C9B56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {070A71B1-402F-40C3-889C-16D615529882}
+	EndGlobalSection
+EndGlobal

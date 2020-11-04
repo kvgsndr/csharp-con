@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csillagok", "csillagok.csproj", "{8364A898-87B5-4176-B474-BA505EB0F880}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8364A898-87B5-4176-B474-BA505EB0F880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8364A898-87B5-4176-B474-BA505EB0F880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8364A898-87B5-4176-B474-BA505EB0F880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8364A898-87B5-4176-B474-BA505EB0F880}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E320D6E-4C68-48D4-81F3-5D5509D28D97}
+	EndGlobalSection
+EndGlobal

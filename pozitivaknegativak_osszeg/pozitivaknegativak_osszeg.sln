@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pozitivaknegativak_osszeg", "pozitivaknegativak_osszeg.csproj", "{B1337BB7-ECF6-4ECB-AA99-8FA6D7B1E011}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1337BB7-ECF6-4ECB-AA99-8FA6D7B1E011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1337BB7-ECF6-4ECB-AA99-8FA6D7B1E011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1337BB7-ECF6-4ECB-AA99-8FA6D7B1E011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1337BB7-ECF6-4ECB-AA99-8FA6D7B1E011}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF61E5CB-0E9F-4785-84F3-51138B97D5E6}
+	EndGlobalSection
+EndGlobal
