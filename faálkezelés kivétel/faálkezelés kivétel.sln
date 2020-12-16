@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "faálkezelés kivétel", "faálkezelés kivétel.csproj", "{61620991-4C1E-47C6-9DEE-53393397880A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61620991-4C1E-47C6-9DEE-53393397880A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61620991-4C1E-47C6-9DEE-53393397880A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61620991-4C1E-47C6-9DEE-53393397880A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61620991-4C1E-47C6-9DEE-53393397880A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F191BCA1-C52A-40AA-ACE9-1A8C7F2A0B30}
+	EndGlobalSection
+EndGlobal

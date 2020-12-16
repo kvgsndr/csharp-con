@@ -1,0 +1,13 @@
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\másod2\bin\Debug\netcoreapp3.1\másod2.exe
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\másod2\bin\Debug\netcoreapp3.1\másod2.deps.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\másod2\bin\Debug\netcoreapp3.1\másod2.runtimeconfig.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\másod2\bin\Debug\netcoreapp3.1\másod2.runtimeconfig.dev.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\másod2\bin\Debug\netcoreapp3.1\másod2.dll
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\másod2\bin\Debug\netcoreapp3.1\másod2.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\másod2\obj\Debug\netcoreapp3.1\másod2.csprojAssemblyReference.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\másod2\obj\Debug\netcoreapp3.1\másod2.AssemblyInfoInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\másod2\obj\Debug\netcoreapp3.1\másod2.AssemblyInfo.cs
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\másod2\obj\Debug\netcoreapp3.1\másod2.csproj.CoreCompileInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\másod2\obj\Debug\netcoreapp3.1\másod2.dll
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\másod2\obj\Debug\netcoreapp3.1\másod2.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\másod2\obj\Debug\netcoreapp3.1\másod2.genruntimeconfig.cache

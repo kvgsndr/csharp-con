@@ -1,0 +1,13 @@
+C:\Users\kovagosandor\source\repos\csillagok\bin\Debug\netcoreapp3.1\csillagok.exe
+C:\Users\kovagosandor\source\repos\csillagok\bin\Debug\netcoreapp3.1\csillagok.deps.json
+C:\Users\kovagosandor\source\repos\csillagok\bin\Debug\netcoreapp3.1\csillagok.runtimeconfig.json
+C:\Users\kovagosandor\source\repos\csillagok\bin\Debug\netcoreapp3.1\csillagok.runtimeconfig.dev.json
+C:\Users\kovagosandor\source\repos\csillagok\bin\Debug\netcoreapp3.1\csillagok.dll
+C:\Users\kovagosandor\source\repos\csillagok\bin\Debug\netcoreapp3.1\csillagok.pdb
+C:\Users\kovagosandor\source\repos\csillagok\obj\Debug\netcoreapp3.1\csillagok.csprojAssemblyReference.cache
+C:\Users\kovagosandor\source\repos\csillagok\obj\Debug\netcoreapp3.1\csillagok.AssemblyInfoInputs.cache
+C:\Users\kovagosandor\source\repos\csillagok\obj\Debug\netcoreapp3.1\csillagok.AssemblyInfo.cs
+C:\Users\kovagosandor\source\repos\csillagok\obj\Debug\netcoreapp3.1\csillagok.csproj.CoreCompileInputs.cache
+C:\Users\kovagosandor\source\repos\csillagok\obj\Debug\netcoreapp3.1\csillagok.dll
+C:\Users\kovagosandor\source\repos\csillagok\obj\Debug\netcoreapp3.1\csillagok.pdb
+C:\Users\kovagosandor\source\repos\csillagok\obj\Debug\netcoreapp3.1\csillagok.genruntimeconfig.cache

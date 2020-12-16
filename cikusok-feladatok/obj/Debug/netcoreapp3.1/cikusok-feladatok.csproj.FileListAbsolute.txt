@@ -1,0 +1,26 @@
+C:\Users\kovagosandor\source\repos\cikusok-feladatok\bin\Debug\netcoreapp3.1\cikusok-feladatok.exe
+C:\Users\kovagosandor\source\repos\cikusok-feladatok\bin\Debug\netcoreapp3.1\cikusok-feladatok.deps.json
+C:\Users\kovagosandor\source\repos\cikusok-feladatok\bin\Debug\netcoreapp3.1\cikusok-feladatok.runtimeconfig.json
+C:\Users\kovagosandor\source\repos\cikusok-feladatok\bin\Debug\netcoreapp3.1\cikusok-feladatok.runtimeconfig.dev.json
+C:\Users\kovagosandor\source\repos\cikusok-feladatok\bin\Debug\netcoreapp3.1\cikusok-feladatok.dll
+C:\Users\kovagosandor\source\repos\cikusok-feladatok\bin\Debug\netcoreapp3.1\cikusok-feladatok.pdb
+C:\Users\kovagosandor\source\repos\cikusok-feladatok\obj\Debug\netcoreapp3.1\cikusok-feladatok.csprojAssemblyReference.cache
+C:\Users\kovagosandor\source\repos\cikusok-feladatok\obj\Debug\netcoreapp3.1\cikusok-feladatok.AssemblyInfoInputs.cache
+C:\Users\kovagosandor\source\repos\cikusok-feladatok\obj\Debug\netcoreapp3.1\cikusok-feladatok.AssemblyInfo.cs
+C:\Users\kovagosandor\source\repos\cikusok-feladatok\obj\Debug\netcoreapp3.1\cikusok-feladatok.csproj.CoreCompileInputs.cache
+C:\Users\kovagosandor\source\repos\cikusok-feladatok\obj\Debug\netcoreapp3.1\cikusok-feladatok.dll
+C:\Users\kovagosandor\source\repos\cikusok-feladatok\obj\Debug\netcoreapp3.1\cikusok-feladatok.pdb
+C:\Users\kovagosandor\source\repos\cikusok-feladatok\obj\Debug\netcoreapp3.1\cikusok-feladatok.genruntimeconfig.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\cikusok-feladatok\obj\Debug\netcoreapp3.1\cikusok-feladatok.csprojAssemblyReference.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\cikusok-feladatok\obj\Debug\netcoreapp3.1\cikusok-feladatok.AssemblyInfoInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\cikusok-feladatok\obj\Debug\netcoreapp3.1\cikusok-feladatok.AssemblyInfo.cs
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\cikusok-feladatok\obj\Debug\netcoreapp3.1\cikusok-feladatok.csproj.CoreCompileInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\cikusok-feladatok\obj\Debug\netcoreapp3.1\cikusok-feladatok.dll
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\cikusok-feladatok\obj\Debug\netcoreapp3.1\cikusok-feladatok.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\cikusok-feladatok\bin\Debug\netcoreapp3.1\cikusok-feladatok.exe
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\cikusok-feladatok\bin\Debug\netcoreapp3.1\cikusok-feladatok.deps.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\cikusok-feladatok\bin\Debug\netcoreapp3.1\cikusok-feladatok.runtimeconfig.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\cikusok-feladatok\bin\Debug\netcoreapp3.1\cikusok-feladatok.runtimeconfig.dev.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\cikusok-feladatok\bin\Debug\netcoreapp3.1\cikusok-feladatok.dll
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\cikusok-feladatok\bin\Debug\netcoreapp3.1\cikusok-feladatok.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\cikusok-feladatok\obj\Debug\netcoreapp3.1\cikusok-feladatok.genruntimeconfig.cache

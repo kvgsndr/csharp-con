@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "szovegek", "szovegek.csproj", "{06EDCFB8-B322-4F0F-9D45-356E59AF3A7F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3D5CDAF9-8DB5-4806-9DD6-EC4C8AF7FDEF}"
+	ProjectSection(SolutionItems) = preProject
+		..\szavak.txt = ..\szavak.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06EDCFB8-B322-4F0F-9D45-356E59AF3A7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06EDCFB8-B322-4F0F-9D45-356E59AF3A7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06EDCFB8-B322-4F0F-9D45-356E59AF3A7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06EDCFB8-B322-4F0F-9D45-356E59AF3A7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3F38042-2E84-4FE7-8756-7568751EA6CC}
+	EndGlobalSection
+EndGlobal

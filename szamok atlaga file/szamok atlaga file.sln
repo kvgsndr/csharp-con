@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "szamok atlaga file", "szamok atlaga file.csproj", "{D5CDB6DF-F22F-4A9C-A094-3E95D882FA1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5CDB6DF-F22F-4A9C-A094-3E95D882FA1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5CDB6DF-F22F-4A9C-A094-3E95D882FA1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5CDB6DF-F22F-4A9C-A094-3E95D882FA1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5CDB6DF-F22F-4A9C-A094-3E95D882FA1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64778117-BF25-47EA-BCE8-7DC8E63E7BB5}
+	EndGlobalSection
+EndGlobal

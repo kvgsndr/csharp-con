@@ -1,0 +1,13 @@
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\trycatchfinally\bin\Debug\netcoreapp3.1\trycatchfinally.exe
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\trycatchfinally\bin\Debug\netcoreapp3.1\trycatchfinally.deps.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\trycatchfinally\bin\Debug\netcoreapp3.1\trycatchfinally.runtimeconfig.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\trycatchfinally\bin\Debug\netcoreapp3.1\trycatchfinally.runtimeconfig.dev.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\trycatchfinally\bin\Debug\netcoreapp3.1\trycatchfinally.dll
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\trycatchfinally\bin\Debug\netcoreapp3.1\trycatchfinally.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\trycatchfinally\obj\Debug\netcoreapp3.1\trycatchfinally.csprojAssemblyReference.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\trycatchfinally\obj\Debug\netcoreapp3.1\trycatchfinally.AssemblyInfoInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\trycatchfinally\obj\Debug\netcoreapp3.1\trycatchfinally.AssemblyInfo.cs
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\trycatchfinally\obj\Debug\netcoreapp3.1\trycatchfinally.csproj.CoreCompileInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\trycatchfinally\obj\Debug\netcoreapp3.1\trycatchfinally.dll
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\trycatchfinally\obj\Debug\netcoreapp3.1\trycatchfinally.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\trycatchfinally\obj\Debug\netcoreapp3.1\trycatchfinally.genruntimeconfig.cache

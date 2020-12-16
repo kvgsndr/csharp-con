@@ -1,0 +1,13 @@
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\ponthatárok\obj\Debug\netcoreapp3.1\ponthatárok.csprojAssemblyReference.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\ponthatárok\obj\Debug\netcoreapp3.1\ponthatárok.AssemblyInfoInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\ponthatárok\obj\Debug\netcoreapp3.1\ponthatárok.AssemblyInfo.cs
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\ponthatárok\obj\Debug\netcoreapp3.1\ponthatárok.csproj.CoreCompileInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\ponthatárok\bin\Debug\netcoreapp3.1\ponthatárok.exe
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\ponthatárok\bin\Debug\netcoreapp3.1\ponthatárok.deps.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\ponthatárok\bin\Debug\netcoreapp3.1\ponthatárok.runtimeconfig.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\ponthatárok\bin\Debug\netcoreapp3.1\ponthatárok.runtimeconfig.dev.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\ponthatárok\bin\Debug\netcoreapp3.1\ponthatárok.dll
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\ponthatárok\bin\Debug\netcoreapp3.1\ponthatárok.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\ponthatárok\obj\Debug\netcoreapp3.1\ponthatárok.dll
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\ponthatárok\obj\Debug\netcoreapp3.1\ponthatárok.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\ponthatárok\obj\Debug\netcoreapp3.1\ponthatárok.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\ciklusok1\bin\Debug\netcoreapp3.1\ciklusok1.exe
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\ciklusok1\bin\Debug\netcoreapp3.1\ciklusok1.deps.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\ciklusok1\bin\Debug\netcoreapp3.1\ciklusok1.runtimeconfig.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\ciklusok1\bin\Debug\netcoreapp3.1\ciklusok1.runtimeconfig.dev.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\ciklusok1\bin\Debug\netcoreapp3.1\ciklusok1.dll
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\ciklusok1\bin\Debug\netcoreapp3.1\ciklusok1.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\ciklusok1\obj\Debug\netcoreapp3.1\ciklusok1.csprojAssemblyReference.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\ciklusok1\obj\Debug\netcoreapp3.1\ciklusok1.AssemblyInfoInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\ciklusok1\obj\Debug\netcoreapp3.1\ciklusok1.AssemblyInfo.cs
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\ciklusok1\obj\Debug\netcoreapp3.1\ciklusok1.csproj.CoreCompileInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\ciklusok1\obj\Debug\netcoreapp3.1\ciklusok1.dll
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\ciklusok1\obj\Debug\netcoreapp3.1\ciklusok1.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\ciklusok1\obj\Debug\netcoreapp3.1\ciklusok1.genruntimeconfig.cache
