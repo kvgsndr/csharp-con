@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="kemia">
+</Property><Property Name="Solution File" Value="D:\Csp\kemia\kemia.sln">
+</Property><Property Name="User Options File" Value="D:\Csp\kemia\kemia.suo">
+</Property><Property Name="Date" Value="2009. december 28.">
+</Property><Property Name="Time" Value="19:34">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="kemia.sln" Description="File successfully backed up as D:\Csp\kemia\Backup\kemia.sln">
+</Event><Event ErrorLevel="0" Project="" Source="kemia.suo" Description="File successfully backed up as D:\Csp\kemia\Backup\kemia.suo">
+</Event><Event ErrorLevel="0" Project="kemia" Source="kemia\kemia.csproj" Description="Project file successfully backed up as D:\Csp\kemia\Backup\kemia\kemia.csproj">
+</Event><Event ErrorLevel="0" Project="kemia" Source="kemia\Program.cs" Description="File successfully backed up as D:\Csp\kemia\Backup\kemia\Program.cs">
+</Event><Event ErrorLevel="0" Project="kemia" Source="kemia\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Csp\kemia\Backup\kemia\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="kemia" Source="kemia\Properties\app.manifest" Description="File successfully backed up as D:\Csp\kemia\Backup\kemia\Properties\app.manifest">
+</Event><Event ErrorLevel="0" Project="kemia" Source="kemia\kemia.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="kemia" Source="kemia\kemia.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="kemia.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="kemia.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="kemia" Source="kemia\kemia.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

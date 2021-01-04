@@ -1,0 +1,2 @@
+A tti.tx (név,magasság cm,testtömeg kg) tabulátorral elválasztott file alapján számold ki mindenki testtömegindexét.
+tti = esttömeg osztva a méterben mért magasság négyzete.

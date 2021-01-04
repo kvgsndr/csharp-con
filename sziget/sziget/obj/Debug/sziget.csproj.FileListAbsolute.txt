@@ -1,0 +1,5 @@
+D:\Csp\sziget\sziget\bin\Debug\sziget.exe
+D:\Csp\sziget\sziget\bin\Debug\sziget.pdb
+D:\Csp\sziget\sziget\obj\Debug\ResolveAssemblyReference.cache
+D:\Csp\sziget\sziget\obj\Debug\sziget.exe
+D:\Csp\sziget\sziget\obj\Debug\sziget.pdb

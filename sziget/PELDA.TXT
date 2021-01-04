@@ -1,0 +1,5 @@
+Egy repülõ az útja folyamán méri a felszín tengerszint feletti magasságát.
+A sziget.txt file a mérés eredményeit tartalmazza.
+Állapítsd meg, hogy hány sziget felett repült el a gép!
+Határozd meg a leghosszabb sziget hosszúságát (a mérések egyenlõ távolságra történtek)!
+Íratsd ki, hogy volt-e mélyföld!

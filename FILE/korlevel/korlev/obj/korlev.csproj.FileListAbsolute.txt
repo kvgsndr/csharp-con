@@ -1,0 +1,5 @@
+H:\korlev\korlev\obj\Debug\ResolveAssemblyReference.cache
+H:\korlev\korlev\bin\Debug\korlev.exe
+H:\korlev\korlev\bin\Debug\korlev.pdb
+H:\korlev\korlev\obj\Debug\korlev.exe
+H:\korlev\korlev\obj\Debug\korlev.pdb

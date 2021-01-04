@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\kemia.exe
+bin\Debug\kemia.pdb
+obj\Debug\kemia.exe
+obj\Debug\kemia.pdb
+bin\Debug\kemia.exe.manifest
+bin\Debug\kemia.application
+obj\Debug\kemia.TrustInfo.xml
+obj\Debug\kemia.exe.manifest
+obj\Debug\kemia.application

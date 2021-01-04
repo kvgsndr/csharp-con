@@ -1,0 +1,3 @@
+A homers.txt file alapján (soronként város neve, mérés Celsius vagy Farenheit, min, max)
+határozd meg a városok minimum és maximum hõmérsékletés és a hõingást!
+Melyik városban volt a legnagyobb a hõingás?

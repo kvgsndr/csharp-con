@@ -1,0 +1,5 @@
+D:\Csp\csillagki\csillagki\bin\Debug\csillagki.exe
+D:\Csp\csillagki\csillagki\bin\Debug\csillagki.pdb
+D:\Csp\csillagki\csillagki\obj\Debug\ResolveAssemblyReference.cache
+D:\Csp\csillagki\csillagki\obj\Debug\csillagki.exe
+D:\Csp\csillagki\csillagki\obj\Debug\csillagki.pdb

@@ -1,0 +1,2 @@
+obj\Debug\korlev.exe
+obj\Debug\korlev.pdb

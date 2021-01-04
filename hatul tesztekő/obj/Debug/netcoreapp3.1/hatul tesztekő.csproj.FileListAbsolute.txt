@@ -1,0 +1,13 @@
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\hatul tesztekő\bin\Debug\netcoreapp3.1\hatul tesztekő.exe
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\hatul tesztekő\bin\Debug\netcoreapp3.1\hatul tesztekő.deps.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\hatul tesztekő\bin\Debug\netcoreapp3.1\hatul tesztekő.runtimeconfig.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\hatul tesztekő\bin\Debug\netcoreapp3.1\hatul tesztekő.runtimeconfig.dev.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\hatul tesztekő\bin\Debug\netcoreapp3.1\hatul tesztekő.dll
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\hatul tesztekő\bin\Debug\netcoreapp3.1\hatul tesztekő.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\hatul tesztekő\obj\Debug\netcoreapp3.1\hatul tesztekő.csprojAssemblyReference.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\hatul tesztekő\obj\Debug\netcoreapp3.1\hatul tesztekő.AssemblyInfoInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\hatul tesztekő\obj\Debug\netcoreapp3.1\hatul tesztekő.AssemblyInfo.cs
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\hatul tesztekő\obj\Debug\netcoreapp3.1\hatul tesztekő.csproj.CoreCompileInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\hatul tesztekő\obj\Debug\netcoreapp3.1\hatul tesztekő.dll
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\hatul tesztekő\obj\Debug\netcoreapp3.1\hatul tesztekő.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\hatul tesztekő\obj\Debug\netcoreapp3.1\hatul tesztekő.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+D:\Csp\rendez\rendez\bin\Release\rendez.exe
+D:\Csp\rendez\rendez\bin\Release\rendez.pdb
+D:\Csp\rendez\rendez\obj\Release\ResolveAssemblyReference.cache
+D:\Csp\rendez\rendez\obj\Release\rendez.exe
+D:\Csp\rendez\rendez\obj\Release\rendez.pdb

@@ -1,0 +1,10 @@
+h:\pitagorasz\pitagorasz\bin\Debug\pitagorasz.exe
+h:\pitagorasz\pitagorasz\bin\Debug\pitagorasz.pdb
+h:\pitagorasz\pitagorasz\obj\Debug\ResolveAssemblyReference.cache
+h:\pitagorasz\pitagorasz\obj\Debug\pitagorasz.exe
+h:\pitagorasz\pitagorasz\obj\Debug\pitagorasz.pdb
+D:\Csp\pitagorasz\pitagorasz\obj\Debug\pitagorasz.exe
+D:\Csp\pitagorasz\pitagorasz\obj\Debug\pitagorasz.pdb
+D:\Csp\pitagorasz\pitagorasz\bin\Debug\pitagorasz.exe
+D:\Csp\pitagorasz\pitagorasz\bin\Debug\pitagorasz.pdb
+D:\Csp\pitagorasz\pitagorasz\obj\Debug\ResolveAssemblyReference.cache

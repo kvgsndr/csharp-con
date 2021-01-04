@@ -1,0 +1,5 @@
+D:\Csp\00_OKT\cserebere\cserebere\obj\Debug\cserebere.exe
+D:\Csp\00_OKT\cserebere\cserebere\obj\Debug\cserebere.pdb
+D:\Csp\00_OKT\cserebere\cserebere\bin\Debug\cserebere.exe
+D:\Csp\00_OKT\cserebere\cserebere\bin\Debug\cserebere.pdb
+D:\Csp\00_OKT\cserebere\cserebere\obj\Debug\ResolveAssemblyReference.cache

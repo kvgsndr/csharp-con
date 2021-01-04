@@ -1,0 +1,7 @@
+Véletlenszerûen generált sokaságból számolj:
+átlagot,
+a legnagyobbat,
+a legkisebbet,
+módusz (-ok közül a legkisebbet),
+mediánt,
+átlagtól való átlagos eltérést.

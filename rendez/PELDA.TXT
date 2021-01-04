@@ -1,0 +1,3 @@
+Példa néhány sorbarendezési algoritmusra.
+Ha van pár perced próbáld ki 100 és 50000 (ez már eltart egy ideig) elemre.
+Az idõ csak tájékoztató jellegû (50000 elemnél már mutat valamit).

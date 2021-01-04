@@ -1,0 +1,4 @@
+A kemelem.txt
+(Rendszam,Nev,Vegyjel,Molaris_atomtomeg,Atomsugar,Elektronegativitas,
+Gyakorisag,Felfedezes) tabul·torral elv·lasztott file adatit olvasd be!
+KÈrj be egy Èvsz·mot Ès list·zd ki az akkor m·Èr ismert elemeket!

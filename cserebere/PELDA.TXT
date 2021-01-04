@@ -1,0 +1,1 @@
+Az ismert zuhatag játék egy kezdetleges konzolos megvalósítása.

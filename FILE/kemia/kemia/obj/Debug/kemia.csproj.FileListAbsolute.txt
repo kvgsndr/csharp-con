@@ -1,0 +1,10 @@
+D:\Csp\kemia\kemia\obj\Debug\kemia.exe
+D:\Csp\kemia\kemia\obj\Debug\kemia.pdb
+D:\Csp\kemia\kemia\bin\Debug\kemia.exe.manifest
+D:\Csp\kemia\kemia\bin\Debug\kemia.application
+D:\Csp\kemia\kemia\bin\Debug\kemia.exe
+D:\Csp\kemia\kemia\bin\Debug\kemia.pdb
+D:\Csp\kemia\kemia\obj\Debug\ResolveAssemblyReference.cache
+D:\Csp\kemia\kemia\obj\Debug\kemia.TrustInfo.xml
+D:\Csp\kemia\kemia\obj\Debug\kemia.exe.manifest
+D:\Csp\kemia\kemia\obj\Debug\kemia.application

@@ -1,0 +1,1 @@
+Az adat.tx és a torzs.tx file alapján készíts körlevelet!

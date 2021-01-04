@@ -1,0 +1,1 @@
+Írasd ki azon pitagoraszi számhármasokat, ahol c<=100;

@@ -1,8 +1,0 @@
-Ez az első mondat!
-Második sor mondata.
-És éssel nem kezdünk mondatot.
-1
-3
-5
-Első
-Második

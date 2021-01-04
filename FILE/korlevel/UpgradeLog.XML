@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="korlev">
+</Property><Property Name="Solution File" Value="D:\Csp\korlev\korlev.sln">
+</Property><Property Name="User Options File" Value="D:\Csp\korlev\korlev.suo">
+</Property><Property Name="Date" Value="2009. december 30.">
+</Property><Property Name="Time" Value="18:46">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="korlev.sln" Description="File successfully backed up as D:\Csp\korlev\Backup\korlev.sln">
+</Event><Event ErrorLevel="0" Project="" Source="korlev.suo" Description="File successfully backed up as D:\Csp\korlev\Backup\korlev.suo">
+</Event><Event ErrorLevel="0" Project="korlev" Source="korlev\korlev.csproj" Description="Project file successfully backed up as D:\Csp\korlev\Backup\korlev\korlev.csproj">
+</Event><Event ErrorLevel="0" Project="korlev" Source="korlev\Program.cs" Description="File successfully backed up as D:\Csp\korlev\Backup\korlev\Program.cs">
+</Event><Event ErrorLevel="0" Project="korlev" Source="korlev\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Csp\korlev\Backup\korlev\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="korlev" Source="korlev\korlev.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="korlev" Source="korlev\korlev.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="korlev.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="korlev.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="korlev" Source="korlev\korlev.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

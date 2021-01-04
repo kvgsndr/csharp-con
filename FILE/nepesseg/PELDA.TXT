@@ -1,0 +1,2 @@
+A nepesseg.txt (Év,Népesség (férfi),Népesség (Nõ),Élveszületés,Halálozás)
+tabulátorral elválasztott file alapján határozd meg, hogy melyik évben volt a legnagyobb a különbség a férfiak és a nõk között!

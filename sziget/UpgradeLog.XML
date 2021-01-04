@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="sziget">
+</Property><Property Name="Solution File" Value="D:\Csp\sziget\sziget.sln">
+</Property><Property Name="User Options File" Value="D:\Csp\sziget\sziget.suo">
+</Property><Property Name="Date" Value="2009. december 31.">
+</Property><Property Name="Time" Value="18:32">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="sziget.sln" Description="File successfully backed up as D:\Csp\sziget\Backup\sziget.sln">
+</Event><Event ErrorLevel="0" Project="" Source="sziget.suo" Description="File successfully backed up as D:\Csp\sziget\Backup\sziget.suo">
+</Event><Event ErrorLevel="0" Project="sziget" Source="sziget\sziget.csproj" Description="Project file successfully backed up as D:\Csp\sziget\Backup\sziget\sziget.csproj">
+</Event><Event ErrorLevel="0" Project="sziget" Source="sziget\Program.cs" Description="File successfully backed up as D:\Csp\sziget\Backup\sziget\Program.cs">
+</Event><Event ErrorLevel="0" Project="sziget" Source="sziget\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Csp\sziget\Backup\sziget\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="sziget" Source="sziget\sziget.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="sziget" Source="sziget\sziget.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="sziget.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="sziget.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="sziget" Source="sziget\sziget.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

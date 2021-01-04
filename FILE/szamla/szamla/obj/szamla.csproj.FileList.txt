@@ -1,0 +1,10 @@
+bin\Debug\szamla.exe.manifest
+bin\Debug\szamla.application
+bin\Debug\szamla.exe
+bin\Debug\szamla.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\szamla.TrustInfo.xml
+obj\Debug\szamla.exe.manifest
+obj\Debug\szamla.application
+obj\Debug\szamla.exe
+obj\Debug\szamla.pdb

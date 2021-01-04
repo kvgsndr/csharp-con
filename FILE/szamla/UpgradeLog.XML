@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="szamla">
+</Property><Property Name="Solution File" Value="D:\Csp\szamla\szamla.sln">
+</Property><Property Name="User Options File" Value="D:\Csp\szamla\szamla.suo">
+</Property><Property Name="Date" Value="2009. december 31.">
+</Property><Property Name="Time" Value="17:29">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="szamla.sln" Description="File successfully backed up as D:\Csp\szamla\Backup\szamla.sln">
+</Event><Event ErrorLevel="0" Project="" Source="szamla.suo" Description="File successfully backed up as D:\Csp\szamla\Backup\szamla.suo">
+</Event><Event ErrorLevel="0" Project="szamla" Source="szamla\szamla.csproj" Description="Project file successfully backed up as D:\Csp\szamla\Backup\szamla\szamla.csproj">
+</Event><Event ErrorLevel="0" Project="szamla" Source="szamla\Program.cs" Description="File successfully backed up as D:\Csp\szamla\Backup\szamla\Program.cs">
+</Event><Event ErrorLevel="0" Project="szamla" Source="szamla\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Csp\szamla\Backup\szamla\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="szamla" Source="szamla\Properties\app.manifest" Description="File successfully backed up as D:\Csp\szamla\Backup\szamla\Properties\app.manifest">
+</Event><Event ErrorLevel="0" Project="szamla" Source="szamla\szamla.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="szamla" Source="szamla\szamla.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="szamla.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="szamla.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="szamla" Source="szamla\szamla.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

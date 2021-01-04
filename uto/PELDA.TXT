@@ -1,0 +1,3 @@
+Egy ütõt mozgat a képernyõ bal oldalán (b és z gombbal).
+Közben másodpercenként számol.
+Kis jóindulattal tekinthetõ játékalapnak.

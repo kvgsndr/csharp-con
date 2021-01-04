@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="hoingas">
+</Property><Property Name="Solution File" Value="D:\Csp\hoingas\hoingas.sln">
+</Property><Property Name="Date" Value="2009. december 28.">
+</Property><Property Name="Time" Value="15:06">
+</Property></Properties><Event ErrorLevel="0" Project="hoingas" Source="hoingas\hoingas.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="hoingas" Source="hoingas\hoingas.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="hoingas.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="hoingas.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="hoingas" Source="hoingas\hoingas.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

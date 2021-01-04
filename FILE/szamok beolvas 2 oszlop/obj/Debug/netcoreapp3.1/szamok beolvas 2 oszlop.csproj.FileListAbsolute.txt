@@ -1,0 +1,13 @@
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\szamok beolvas 2 oszlop\bin\Debug\netcoreapp3.1\szamok beolvas 2 oszlop.exe
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\szamok beolvas 2 oszlop\bin\Debug\netcoreapp3.1\szamok beolvas 2 oszlop.deps.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\szamok beolvas 2 oszlop\bin\Debug\netcoreapp3.1\szamok beolvas 2 oszlop.runtimeconfig.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\szamok beolvas 2 oszlop\bin\Debug\netcoreapp3.1\szamok beolvas 2 oszlop.runtimeconfig.dev.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\szamok beolvas 2 oszlop\bin\Debug\netcoreapp3.1\szamok beolvas 2 oszlop.dll
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\szamok beolvas 2 oszlop\bin\Debug\netcoreapp3.1\szamok beolvas 2 oszlop.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\szamok beolvas 2 oszlop\obj\Debug\netcoreapp3.1\szamok beolvas 2 oszlop.csprojAssemblyReference.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\szamok beolvas 2 oszlop\obj\Debug\netcoreapp3.1\szamok beolvas 2 oszlop.AssemblyInfoInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\szamok beolvas 2 oszlop\obj\Debug\netcoreapp3.1\szamok beolvas 2 oszlop.AssemblyInfo.cs
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\szamok beolvas 2 oszlop\obj\Debug\netcoreapp3.1\szamok beolvas 2 oszlop.csproj.CoreCompileInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\szamok beolvas 2 oszlop\obj\Debug\netcoreapp3.1\szamok beolvas 2 oszlop.dll
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\szamok beolvas 2 oszlop\obj\Debug\netcoreapp3.1\szamok beolvas 2 oszlop.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\szamok beolvas 2 oszlop\obj\Debug\netcoreapp3.1\szamok beolvas 2 oszlop.genruntimeconfig.cache
