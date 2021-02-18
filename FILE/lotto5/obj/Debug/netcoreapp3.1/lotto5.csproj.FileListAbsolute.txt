@@ -1,0 +1,14 @@
+C:\Users\kovagosandor\source\repos\lotto5\bin\Debug\netcoreapp3.1\lotto5.exe
+C:\Users\kovagosandor\source\repos\lotto5\bin\Debug\netcoreapp3.1\lotto5.deps.json
+C:\Users\kovagosandor\source\repos\lotto5\bin\Debug\netcoreapp3.1\lotto5.runtimeconfig.json
+C:\Users\kovagosandor\source\repos\lotto5\bin\Debug\netcoreapp3.1\lotto5.runtimeconfig.dev.json
+C:\Users\kovagosandor\source\repos\lotto5\bin\Debug\netcoreapp3.1\lotto5.dll
+C:\Users\kovagosandor\source\repos\lotto5\bin\Debug\netcoreapp3.1\lotto5.pdb
+C:\Users\kovagosandor\source\repos\lotto5\obj\Debug\netcoreapp3.1\lotto5.csprojAssemblyReference.cache
+C:\Users\kovagosandor\source\repos\lotto5\obj\Debug\netcoreapp3.1\lotto5.AssemblyInfoInputs.cache
+C:\Users\kovagosandor\source\repos\lotto5\obj\Debug\netcoreapp3.1\lotto5.AssemblyInfo.cs
+C:\Users\kovagosandor\source\repos\lotto5\obj\Debug\netcoreapp3.1\lotto5.csproj.CoreCompileInputs.cache
+C:\Users\kovagosandor\source\repos\lotto5\obj\Debug\netcoreapp3.1\lotto5.dll
+C:\Users\kovagosandor\source\repos\lotto5\obj\Debug\netcoreapp3.1\lotto5.pdb
+C:\Users\kovagosandor\source\repos\lotto5\obj\Debug\netcoreapp3.1\lotto5.genruntimeconfig.cache
+C:\Users\kovagosandor\source\repos\lotto5\bin\Debug\netcoreapp3.1\otos.csv

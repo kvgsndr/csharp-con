@@ -1,0 +1,14 @@
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\darabolas\bin\Debug\netcoreapp3.1\patika.csv
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\darabolas\bin\Debug\netcoreapp3.1\darabolas.exe
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\darabolas\bin\Debug\netcoreapp3.1\darabolas.deps.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\darabolas\bin\Debug\netcoreapp3.1\darabolas.runtimeconfig.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\darabolas\bin\Debug\netcoreapp3.1\darabolas.runtimeconfig.dev.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\darabolas\bin\Debug\netcoreapp3.1\darabolas.dll
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\darabolas\bin\Debug\netcoreapp3.1\darabolas.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\darabolas\obj\Debug\netcoreapp3.1\darabolas.csprojAssemblyReference.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\darabolas\obj\Debug\netcoreapp3.1\darabolas.AssemblyInfoInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\darabolas\obj\Debug\netcoreapp3.1\darabolas.AssemblyInfo.cs
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\darabolas\obj\Debug\netcoreapp3.1\darabolas.csproj.CoreCompileInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\darabolas\obj\Debug\netcoreapp3.1\darabolas.dll
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\darabolas\obj\Debug\netcoreapp3.1\darabolas.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\darabolas\obj\Debug\netcoreapp3.1\darabolas.genruntimeconfig.cache

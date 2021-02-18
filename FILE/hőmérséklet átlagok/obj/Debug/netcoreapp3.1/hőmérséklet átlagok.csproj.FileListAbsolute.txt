@@ -1,0 +1,13 @@
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\hőmérséklet átlagok\bin\Debug\netcoreapp3.1\hőmérséklet átlagok.exe
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\hőmérséklet átlagok\bin\Debug\netcoreapp3.1\hőmérséklet átlagok.deps.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\hőmérséklet átlagok\bin\Debug\netcoreapp3.1\hőmérséklet átlagok.runtimeconfig.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\hőmérséklet átlagok\bin\Debug\netcoreapp3.1\hőmérséklet átlagok.runtimeconfig.dev.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\hőmérséklet átlagok\bin\Debug\netcoreapp3.1\hőmérséklet átlagok.dll
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\hőmérséklet átlagok\bin\Debug\netcoreapp3.1\hőmérséklet átlagok.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\hőmérséklet átlagok\obj\Debug\netcoreapp3.1\hőmérséklet átlagok.csprojAssemblyReference.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\hőmérséklet átlagok\obj\Debug\netcoreapp3.1\hőmérséklet átlagok.AssemblyInfoInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\hőmérséklet átlagok\obj\Debug\netcoreapp3.1\hőmérséklet átlagok.AssemblyInfo.cs
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\hőmérséklet átlagok\obj\Debug\netcoreapp3.1\hőmérséklet átlagok.csproj.CoreCompileInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\hőmérséklet átlagok\obj\Debug\netcoreapp3.1\hőmérséklet átlagok.dll
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\hőmérséklet átlagok\obj\Debug\netcoreapp3.1\hőmérséklet átlagok.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\hőmérséklet átlagok\obj\Debug\netcoreapp3.1\hőmérséklet átlagok.genruntimeconfig.cache

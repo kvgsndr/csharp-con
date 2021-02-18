@@ -1,0 +1,14 @@
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\intSzolgTáblázatNumerikus\bin\Debug\netcoreapp3.1\ADATFORG.txt
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\intSzolgTáblázatNumerikus\bin\Debug\netcoreapp3.1\intSzolgTáblázatNumerikus.exe
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\intSzolgTáblázatNumerikus\bin\Debug\netcoreapp3.1\intSzolgTáblázatNumerikus.deps.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\intSzolgTáblázatNumerikus\bin\Debug\netcoreapp3.1\intSzolgTáblázatNumerikus.runtimeconfig.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\intSzolgTáblázatNumerikus\bin\Debug\netcoreapp3.1\intSzolgTáblázatNumerikus.runtimeconfig.dev.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\intSzolgTáblázatNumerikus\bin\Debug\netcoreapp3.1\intSzolgTáblázatNumerikus.dll
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\intSzolgTáblázatNumerikus\bin\Debug\netcoreapp3.1\intSzolgTáblázatNumerikus.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\intSzolgTáblázatNumerikus\obj\Debug\netcoreapp3.1\intSzolgTáblázatNumerikus.csprojAssemblyReference.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\intSzolgTáblázatNumerikus\obj\Debug\netcoreapp3.1\intSzolgTáblázatNumerikus.AssemblyInfoInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\intSzolgTáblázatNumerikus\obj\Debug\netcoreapp3.1\intSzolgTáblázatNumerikus.AssemblyInfo.cs
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\intSzolgTáblázatNumerikus\obj\Debug\netcoreapp3.1\intSzolgTáblázatNumerikus.csproj.CoreCompileInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\intSzolgTáblázatNumerikus\obj\Debug\netcoreapp3.1\intSzolgTáblázatNumerikus.dll
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\intSzolgTáblázatNumerikus\obj\Debug\netcoreapp3.1\intSzolgTáblázatNumerikus.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\intSzolgTáblázatNumerikus\obj\Debug\netcoreapp3.1\intSzolgTáblázatNumerikus.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\osztálynévsor\bin\Debug\netcoreapp3.1\10ainf1.csv
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\osztálynévsor\bin\Debug\netcoreapp3.1\osztálynévsor.exe
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\osztálynévsor\bin\Debug\netcoreapp3.1\osztálynévsor.deps.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\osztálynévsor\bin\Debug\netcoreapp3.1\osztálynévsor.runtimeconfig.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\osztálynévsor\bin\Debug\netcoreapp3.1\osztálynévsor.runtimeconfig.dev.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\osztálynévsor\bin\Debug\netcoreapp3.1\osztálynévsor.dll
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\osztálynévsor\bin\Debug\netcoreapp3.1\osztálynévsor.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\osztálynévsor\obj\Debug\netcoreapp3.1\osztálynévsor.csprojAssemblyReference.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\osztálynévsor\obj\Debug\netcoreapp3.1\osztálynévsor.AssemblyInfoInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\osztálynévsor\obj\Debug\netcoreapp3.1\osztálynévsor.AssemblyInfo.cs
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\osztálynévsor\obj\Debug\netcoreapp3.1\osztálynévsor.csproj.CoreCompileInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\osztálynévsor\obj\Debug\netcoreapp3.1\osztálynévsor.dll
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\osztálynévsor\obj\Debug\netcoreapp3.1\osztálynévsor.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\osztálynévsor\obj\Debug\netcoreapp3.1\osztálynévsor.genruntimeconfig.cache

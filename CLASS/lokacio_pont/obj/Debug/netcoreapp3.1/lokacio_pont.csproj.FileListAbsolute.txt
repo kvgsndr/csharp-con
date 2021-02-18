@@ -1,0 +1,13 @@
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\lokacio_pont\obj\Debug\netcoreapp3.1\lokacio_pont.csprojAssemblyReference.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\lokacio_pont\obj\Debug\netcoreapp3.1\lokacio_pont.AssemblyInfoInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\lokacio_pont\obj\Debug\netcoreapp3.1\lokacio_pont.AssemblyInfo.cs
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\lokacio_pont\obj\Debug\netcoreapp3.1\lokacio_pont.csproj.CoreCompileInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\lokacio_pont\bin\Debug\netcoreapp3.1\lokacio_pont.exe
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\lokacio_pont\bin\Debug\netcoreapp3.1\lokacio_pont.deps.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\lokacio_pont\bin\Debug\netcoreapp3.1\lokacio_pont.runtimeconfig.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\lokacio_pont\bin\Debug\netcoreapp3.1\lokacio_pont.runtimeconfig.dev.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\lokacio_pont\bin\Debug\netcoreapp3.1\lokacio_pont.dll
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\lokacio_pont\bin\Debug\netcoreapp3.1\lokacio_pont.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\lokacio_pont\obj\Debug\netcoreapp3.1\lokacio_pont.dll
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\lokacio_pont\obj\Debug\netcoreapp3.1\lokacio_pont.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\lokacio_pont\obj\Debug\netcoreapp3.1\lokacio_pont.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "osztálylistainf2a0a/1.0.0": {
+        "runtime": {
+          "osztálylistainf2a0a.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "osztálylistainf2a0a/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

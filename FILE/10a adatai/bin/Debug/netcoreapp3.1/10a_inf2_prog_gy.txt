@@ -1,0 +1,14 @@
+0;Müller Viktória;0
+0;Nagy Ádám;0
+0;Ódor József;0
+0;Pausch Dániel;0
+0;Rónay István Vajk;0
+0;Rózsa Botond Benedek;0
+0;Salgó Noé;0
+0;Szabó Dominik;0
+0;Szabó Márió;0
+0;Sziráczki Zsolt;0
+0;Sztarovics Dániel;0
+0;Tóthmihály Bálint;0
+0;Varga Dávid János;0
+0;Zeller Zénó;0

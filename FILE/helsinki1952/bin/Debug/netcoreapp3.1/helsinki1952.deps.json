@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "helsinki1952/1.0.0": {
+        "runtime": {
+          "helsinki1952.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "helsinki1952/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

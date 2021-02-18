@@ -1,0 +1,3 @@
+A legtöbb adatot használó ügyfél 464968584 adatforgalma=11080
+A kliensek átlagos adatforgalma=8974,86
+Az 1000MB sávszélességet használó kliensek száma=26

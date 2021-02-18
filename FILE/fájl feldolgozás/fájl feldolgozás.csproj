@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>fájl_feldolgozás</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="10binf2.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="10binf2.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>

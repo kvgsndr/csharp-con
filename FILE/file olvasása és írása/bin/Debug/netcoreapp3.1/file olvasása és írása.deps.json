@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "file olvasása és írása/1.0.0": {
+        "runtime": {
+          "file olvasása és írása.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "file olvasása és írása/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
