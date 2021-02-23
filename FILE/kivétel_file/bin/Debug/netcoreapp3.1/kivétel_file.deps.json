@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "kivétel_file/1.0.0": {
+        "runtime": {
+          "kivétel_file.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kivétel_file/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

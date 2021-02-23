@@ -1,0 +1,17 @@
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\Halgatok_11d\obj\Debug\netcoreapp3.1\Hallgatok.csprojAssemblyReference.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\Halgatok_11d\obj\Debug\netcoreapp3.1\Hallgatok.AssemblyInfoInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\Halgatok_11d\obj\Debug\netcoreapp3.1\Hallgatok.AssemblyInfo.cs
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\Halgatok_11d\obj\Debug\netcoreapp3.1\Hallgatok.csproj.CoreCompileInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\Halgatok_11d_11a\bin\Debug\netcoreapp3.1\Hallgatok.exe
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\Halgatok_11d_11a\bin\Debug\netcoreapp3.1\Hallgatok.deps.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\Halgatok_11d_11a\bin\Debug\netcoreapp3.1\Hallgatok.runtimeconfig.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\Halgatok_11d_11a\bin\Debug\netcoreapp3.1\Hallgatok.runtimeconfig.dev.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\Halgatok_11d_11a\bin\Debug\netcoreapp3.1\Hallgatok.dll
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\Halgatok_11d_11a\bin\Debug\netcoreapp3.1\Hallgatok.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\Halgatok_11d_11a\obj\Debug\netcoreapp3.1\Hallgatok.csprojAssemblyReference.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\Halgatok_11d_11a\obj\Debug\netcoreapp3.1\Hallgatok.AssemblyInfoInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\Halgatok_11d_11a\obj\Debug\netcoreapp3.1\Hallgatok.AssemblyInfo.cs
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\Halgatok_11d_11a\obj\Debug\netcoreapp3.1\Hallgatok.csproj.CoreCompileInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\Halgatok_11d_11a\obj\Debug\netcoreapp3.1\Hallgatok.dll
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\Halgatok_11d_11a\obj\Debug\netcoreapp3.1\Hallgatok.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\Halgatok_11d_11a\obj\Debug\netcoreapp3.1\Hallgatok.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\Szamitogép_11d\bin\Debug\netcoreapp3.1\Szamitogép_11d.exe
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\Szamitogép_11d\bin\Debug\netcoreapp3.1\Szamitogép_11d.deps.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\Szamitogép_11d\bin\Debug\netcoreapp3.1\Szamitogép_11d.runtimeconfig.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\Szamitogép_11d\bin\Debug\netcoreapp3.1\Szamitogép_11d.runtimeconfig.dev.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\Szamitogép_11d\bin\Debug\netcoreapp3.1\Szamitogép_11d.dll
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\Szamitogép_11d\bin\Debug\netcoreapp3.1\Szamitogép_11d.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\Szamitogép_11d\obj\Debug\netcoreapp3.1\Szamitogép_11d.csprojAssemblyReference.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\Szamitogép_11d\obj\Debug\netcoreapp3.1\Szamitogép_11d.AssemblyInfoInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\Szamitogép_11d\obj\Debug\netcoreapp3.1\Szamitogép_11d.AssemblyInfo.cs
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\Szamitogép_11d\obj\Debug\netcoreapp3.1\Szamitogép_11d.csproj.CoreCompileInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\Szamitogép_11d\obj\Debug\netcoreapp3.1\Szamitogép_11d.dll
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\Szamitogép_11d\obj\Debug\netcoreapp3.1\Szamitogép_11d.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\Szamitogép_11d\obj\Debug\netcoreapp3.1\Szamitogép_11d.genruntimeconfig.cache

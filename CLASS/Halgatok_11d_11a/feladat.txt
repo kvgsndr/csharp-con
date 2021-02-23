@@ -1,0 +1,8 @@
+﻿ Írj osztályt, ami egy Hallgato objektumot valósít meg.
+• A hallgató adattagjai a következőek legyenek: azonosító (String), évfolyam (int), kreditszám (int).
+• Két konstruktort is készíts az osztályhoz. Az egyik általános legyen, ami minden adattagot a konstruktor paraméterlistájából állít be, illetve egy másik, ami az első adattagot a konstruktor paraméterlistájából kapja, évfolyama 1 és kreditszáma 0 legyen.
+• Az osztálynak legyen egy void targyFelvesz metódusa, amivel egy int paramétert (tárgy kreditértéke) kér. A hallgató kreditszáma nőjön a kapott értékkel.
+• Az osztálynak legyen egy boolean vizsgazik metódusa, ami nem vár paramétert. Ha a hallgatónak 0-nál több kreditje van, akkor a sikeres a vizsga: a következő évfolyamba lép, és nullázódik a kreditszáma. Egyébként a vizsga sikertelen.
+• Készíts toString metódust az osztályhoz.
+• A Main metódusban hozz létre két hallgatót a két különböző konstruktorral. Az egyikük vegyen fel tárgyat, majd vizsgáztasd őket. A vizsga sikerességéről írj információt konzolra.
+• Ezután mindkét hallgatót írd ki szövegesen.

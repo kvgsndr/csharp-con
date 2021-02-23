@@ -1,0 +1,5 @@
+Írj osztályt, ami egy Ember objektumot valósít meg.
+• Az ember adattagjai a következőek legyenek: vezetéknév (String), keresztnév (String), születési év (int). Az adattagok csak ebből az osztályból legyen elérhetőek.
+• Készíts az osztályhoz konstruktor, ami paraméterek alapján állítja be az adattagokat.
+• Az osztálynak legyen egy hogyHivjak metódusa, ami visszaadja az ember telyes nevét (vezetéknév+keresztnév).
+• A main metódusban hozz létre egy ember objektumot, és írd ki a nevét.

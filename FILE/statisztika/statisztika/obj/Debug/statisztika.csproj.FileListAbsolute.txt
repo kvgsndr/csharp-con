@@ -1,0 +1,6 @@
+D:\iskola\informatika\emelt\statisztika\statisztika\bin\Debug\statisztika.exe.config
+D:\iskola\informatika\emelt\statisztika\statisztika\bin\Debug\statisztika.exe
+D:\iskola\informatika\emelt\statisztika\statisztika\bin\Debug\statisztika.pdb
+D:\iskola\informatika\emelt\statisztika\statisztika\obj\Debug\statisztika.csprojResolveAssemblyReference.cache
+D:\iskola\informatika\emelt\statisztika\statisztika\obj\Debug\statisztika.exe
+D:\iskola\informatika\emelt\statisztika\statisztika\obj\Debug\statisztika.pdb
