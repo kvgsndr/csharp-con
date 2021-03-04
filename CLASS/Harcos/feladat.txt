@@ -1,8 +1,7 @@
 Írj osztályt, ami egy Harcos objektumot valósít meg.
-• Az ember adattagjai a következőek legyenek: név (String), életerő (int), harci erő (int). Az adattagok csak ebből az osztályból legyen elérhetőek.
+• Az harcos adattagjai a következőek legyenek: név (String), életerő (int), harci erő (int). Az adattagok csak ebből az osztályból legyen elérhetőek.
 • Készíts az osztályhoz konstruktor, ami paraméterek alapján állítja be az adattagokat.
-• Az osztálynak legyen egy boolean harcol metódusa, ami egy másik harcost kap paraméternek. A metódus mindkét harcos életerejét csökkentse a másik harcos harci erejével.
-Ha valamelyik harcos elveszti a harcot (életereje 0 alá csökkenne), a metódus térjen vissza igazzal, egyébként hamissal.
+• Az osztálynak legyen egy boolean harcol metódusa, ami egy másik harcost kap paraméternek. A metódus mindkét harcos életerejét csökkentse a másik harcos harci erejével. Ha valamelyik harcos elveszti a harcot (életereje 0 alá csökkenne), a metódus térjen vissza igazzal, egyébként hamissal.
 • Készítsd el a megfelelő metódusokat az adattagok lekérdezéséhez és módosításához.
 • Készíts toString metódust mindkét osztályhoz.
-• A main metódusban hozz létre két harcos objektumot. Harcoljanak, amíg valamelyikük el nem veszti a harcot.
+• A Main metódusban hozz létre két harcos objektumot. Harcoljanak, amíg valamelyikük el nem veszti a harcot.

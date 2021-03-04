@@ -1,0 +1,34 @@
+0;Ábrahám Barna;0
+0;Ács András;0
+0;Balogh László;0
+0;Csontos Márton;0
+0;Dezső Tamás;0
+0;Egersdorfer Dominik;0
+0;Fekete Ádám;0
+0;Foki Lénárd;0
+0;Hodován Milán;0
+0;Horváth Dávid;0
+0;Huszti Imre Bence;0
+0;Kalmár Ákos;0
+0;Kalmár Dávid;0
+0;Koncz Dominik;0
+0;Kubina Ábris;0
+0;Leancu Levente Adrián;0
+0;Majorosi Márk;0
+0;Martines Gergő;0
+0;Mátrai Gergő;0
+0;Müller Ottó;0
+0;Nagymiklósi Mátyás;0
+0;Neagoe Martin;0
+0;Oszwald András Sándor;0
+0;Radics Ádám;0
+0;Rátkai Martin;0
+0;Rockenstein Ádám;0
+0;Schwáb Tamás;0
+0;Szabó Kevin Márk;0
+0;Tusa Máté;0
+0;Unszorg Balázs;0
+0;Varga Renáto;0
+0;Vida Károly Dávid;0
+0;Vörös Attila;0
+0;Walkowicz Szása;0

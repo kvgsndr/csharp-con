@@ -7,8 +7,9 @@ namespace _10a_adatai
     class Program
     {
         static void Main(string[] args)
-        {   
-            StreamReader fbe = new StreamReader("10ainf2_prog_gy.txt");
+        {
+            string fileName = "9d_csop1_dk.txt";
+            StreamReader fbe = new StreamReader(fileName);
             List<string> nevek = new List<string>();
             while (!fbe.EndOfStream)
             {
@@ -24,13 +25,14 @@ namespace _10a_adatai
                 fbe.ReadLine();
                 fbe.ReadLine();
             }
-            StreamWriter fki = new StreamWriter("10a_inf2_prog_gy.txt");
+            fbe.Close();
+            StreamWriter fki = new StreamWriter(fileName);
             foreach (var item in nevek)
             {
                 fki.WriteLine($"0;{item};0");
             }
             fki.Close();
-            fbe.Close();
+           
 
         }
     }
