@@ -1,0 +1,13 @@
+﻿A szavak txt állomány néhány (maximum 600 db) magyar szót tartalmaz.
+
+Készíts programot szovegek néven, amely az állomány adatainak beolvasásával, amely az alábbi kérdésekre válaszol!
+
+Hány szó szerepel a listában?
+Melyik a leghosszabb szó a listában?+
+(Ha több azonos leghosszabb hosszúságú szó is van a szógyűjteményben, akkor azok közül elegendő egyetlen szót kiírnia.)
+Írd ki egy fbetus.txt fájlba az f betűvel kezdődő 4 betűs szavakat egymás mellé szóközökkel elválasztva!+
+Hány darab 5 betűs szó szerepel a listában?
+Szerepel-e a „szeretem” szó a listában?
+Írasd ki azokat a szavakat egymás alá, amiben szerepel az „alt” szó!
+(Segítség a feladathoz: pl. szavak[i].Equals(szo))
+Objektum orientáltan old meg!!!

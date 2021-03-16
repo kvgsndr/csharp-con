@@ -9,7 +9,7 @@ namespace függvények1
     class Program
     {
        
-        static void csillag( int a)
+        public static int csillag( int a)
         {
             for (int i = 1; i <= a; i++)
             {
@@ -18,8 +18,9 @@ namespace függvények1
                     Console.Write("*");
                 }
                 Console.WriteLine();
-
+               
             }
+            return a;
         }
         static void Main(string[] args)
         {
@@ -29,7 +30,7 @@ namespace függvények1
 
             for (int i = 1; i <= szam; i++)
             {
-                 csillag(i);
+                 int s=csillag(i);
             }
             
                
