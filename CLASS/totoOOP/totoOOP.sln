@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "totoOOP", "totoOOP.csproj", "{FB32BBCA-832B-476D-A994-9E95D1B47A1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB32BBCA-832B-476D-A994-9E95D1B47A1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB32BBCA-832B-476D-A994-9E95D1B47A1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB32BBCA-832B-476D-A994-9E95D1B47A1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB32BBCA-832B-476D-A994-9E95D1B47A1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0F57598-2A94-41C7-B815-F27EF5A0A34B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+1.Hozzon létre programot ackiado néven a regények adatainak feldolgozásra!
+2.	Olvassa be az ac.csv állományban található adatokat! 
+Az állomány első sora Agatha Christie születésének évét tárolja. 
+Minden további sor 1-1 könyvének adatait tárolja ;-vel elválasztva.
+Pl.:
+M;A láthatatlan kéz;The Moving Finger;1942;11,40 
+A sorokban tárolt adatok a következők:
+•	a regény kategóriája, ha Hercule Poirot vagy Miss Marple szerepel a történetben, 
+akkor a P, illetve a M karakter szerepel, egyébként – van az állományban. (nincs olyan mű, amelyben közösen szerepelnek) 
+•	a regény magyar címe
+•	a regény eredeti, angol címe  
+•	az első angol kiadás éve  
+•	a regény jelenlegi ára euróban 
+Minden kiírást igénylő feladat előtt jelenítse meg a feladat sorszámát! (A mintában szereplő ered-mények helytelenek.)
+3.	Írja ki a képernyőre, hogy hány könyvet árul a kiadó Agatha Christie műveiből!
+4.	Mennyibe kerülne, ha az összes Poirot könyvből meg akarunk vásárolni egy példányt?
+5.	Jelenítse meg a képernyőn, hogy hány éves volt Agatha Christie, amikor első könyve megjelent! 
+6.	Hozza létre az 1945.txt állományt, és írja ki a fájlba 
+             * az összes 1945 előtt megjelent könyv angol és magyar címét, valamint megjelenésnek évét! 
+             * A fájlban minden könyv külön sorban szerepel-jen, adatait tabulátorral válassza el egymástól!
+
+7.	Miss Marpl vagy Poirot történeteiből írt többet Agatha Christie? 
+             * A választ írja ki a képernyőre!
+8.	Jelenítse meg egy olyan Poirot történet angol és magyar címét, 
+             * melyet Agatha Christie a II. vi-lágháború előtt jelentetett meg! 
+             * Ha nincs ilyen könyv, akkora „Nincs háború előtti Poirot könyv” felirat jelenjen mega képernyőn!
