@@ -1,0 +1,13 @@
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-con\CLASS\allat osztály\bin\Debug\netcoreapp3.1\allat osztály.exe
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-con\CLASS\allat osztály\bin\Debug\netcoreapp3.1\allat osztály.deps.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-con\CLASS\allat osztály\bin\Debug\netcoreapp3.1\allat osztály.runtimeconfig.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-con\CLASS\allat osztály\bin\Debug\netcoreapp3.1\allat osztály.runtimeconfig.dev.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-con\CLASS\allat osztály\bin\Debug\netcoreapp3.1\allat osztály.dll
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-con\CLASS\allat osztály\bin\Debug\netcoreapp3.1\allat osztály.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-con\CLASS\allat osztály\obj\Debug\netcoreapp3.1\allat osztály.csprojAssemblyReference.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-con\CLASS\allat osztály\obj\Debug\netcoreapp3.1\allat osztály.AssemblyInfoInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-con\CLASS\allat osztály\obj\Debug\netcoreapp3.1\allat osztály.AssemblyInfo.cs
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-con\CLASS\allat osztály\obj\Debug\netcoreapp3.1\allat osztály.csproj.CoreCompileInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-con\CLASS\allat osztály\obj\Debug\netcoreapp3.1\allat osztály.dll
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-con\CLASS\allat osztály\obj\Debug\netcoreapp3.1\allat osztály.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Technikum\Türr\source\repos\csharp-con\CLASS\allat osztály\obj\Debug\netcoreapp3.1\allat osztály.genruntimeconfig.cache

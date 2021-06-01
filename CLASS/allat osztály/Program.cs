@@ -3,13 +3,15 @@
 namespace allat_osztály
 {   class Allat
     {
-        string nev;
-        int szomj;
-        int ehseg;
+       private string nev;
+        protected int szomj;
+        protected int ehseg;
+
+        public string Nev { get => nev; set => nev = value; }
 
         public Allat(string nev, int szomj, int ehseg)//konstruktor
         {
-            this.nev = nev;
+            this.Nev = nev;
             this.szomj = szomj;
             this.ehseg = ehseg;
         }
@@ -26,9 +28,9 @@ namespace allat_osztály
             szomj += 5;
             ehseg += 5;
         }
-        public void kiir()
+        public virtual void kiir()
         {
-            Console.WriteLine("Név: {0}, Szomj: {1}, Éhség: {2}", nev, szomj,ehseg) ;
+            Console.WriteLine("Név: {0}, Szomj: {1}, Éhség: {2}", Nev, szomj,ehseg) ;
         }
 
     }
@@ -37,14 +39,15 @@ namespace allat_osztály
      {
         int labakSzama;
 
-        void kiirelos()
+        public override void kiir()
         {
-                this.kiir();
-                Console.WriteLine($"Lábak szama: {labakSzama}");
+            //this.kiir();
+            Console.WriteLine("Név: {0}, Szomj: {1}, Éhség: {2}", Nev, szomj, ehseg);
+            Console.WriteLine($"Lábak szama: {labakSzama}");
         }
-        public Emlos()
-        { 
-        
+        public Emlos(string nev, int szomj, int ehseg, int labakSzama): base(nev, szomj, ehseg)
+        {
+            this.labakSzama = labakSzama;
         }
      }
 
@@ -65,6 +68,10 @@ namespace allat_osztály
             b.eszik();
             b.kiir();
 
+            Emlos tehen = new Emlos("Riska", 50, 20, 4);
+            tehen.kiir();
+
+            
 
             Console.ReadKey();
         }

@@ -1,0 +1,14 @@
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\egyszamjatek\bin\Debug\netcoreapp3.1\egyszamjatek.exe
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\egyszamjatek\bin\Debug\netcoreapp3.1\egyszamjatek.deps.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\egyszamjatek\bin\Debug\netcoreapp3.1\egyszamjatek.runtimeconfig.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\egyszamjatek\bin\Debug\netcoreapp3.1\egyszamjatek.runtimeconfig.dev.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\egyszamjatek\bin\Debug\netcoreapp3.1\egyszamjatek.dll
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\egyszamjatek\bin\Debug\netcoreapp3.1\egyszamjatek.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\egyszamjatek\obj\Debug\netcoreapp3.1\egyszamjatek.csprojAssemblyReference.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\egyszamjatek\obj\Debug\netcoreapp3.1\egyszamjatek.AssemblyInfoInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\egyszamjatek\obj\Debug\netcoreapp3.1\egyszamjatek.AssemblyInfo.cs
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\egyszamjatek\obj\Debug\netcoreapp3.1\egyszamjatek.csproj.CoreCompileInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\egyszamjatek\obj\Debug\netcoreapp3.1\egyszamjatek.dll
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\egyszamjatek\obj\Debug\netcoreapp3.1\egyszamjatek.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\egyszamjatek\obj\Debug\netcoreapp3.1\egyszamjatek.genruntimeconfig.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\FILE\egyszamjatek\bin\Debug\netcoreapp3.1\egyszamjatek1.txt

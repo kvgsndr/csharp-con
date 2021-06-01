@@ -6,7 +6,7 @@ namespace Toto
 {
 
     class Program
-    {
+    {   
 
         struct Adat
         {
@@ -71,7 +71,7 @@ namespace Toto
 
             }
             Console.WriteLine($"4. feladat: Telitalálatos szelvények száma {telitalalatosSzelvenyek} db.");
-            Console.WriteLine($"5. feladat: Átlag : {telitalalatosFordulokOsszege / teleitalalatosFordulokSzama:F0}");
+            Console.WriteLine($"5. feladat: Átlag : {telitalalatosFordulokOsszege /adatok.Count:F0}");
 
             //6.Írja ki annak a két fordulónak az adatait a minta szerint, ahol a legnagyobb és a legkisebb
             //volt az egy telitalálatos szelvény után fizetett nyeremény!Feltételezheti, hogy nem
@@ -82,6 +82,7 @@ namespace Toto
 
             int maxindex = 0, minindex = 0;
             int maxosszeg = int.MinValue, minosszeg = int.MaxValue;
+          //int maxosszeg=adatok[0].ny13p1, minosszeg=adatok[0].ny13p1;
 
             for (int i = 0; i < adatok.Count; i++)
             {    //max
@@ -92,13 +93,12 @@ namespace Toto
 
                 }
                 // min
-                if (adatok[i].ny13p1 < minosszeg)
+                if (adatok[i].ny13p1>0  &&  adatok[i].ny13p1 < minosszeg)
                 {
                     minosszeg = adatok[i].ny13p1;
                     minindex = i;
 
                 }
-
             }
 
             Console.WriteLine("6. Feladat:");
@@ -114,7 +114,6 @@ namespace Toto
             {
                 Console.WriteLine($"Év : {adatok[index].ev}");
                 Console.WriteLine($"Hét : {adatok[index].het}");
-                Console.WriteLine($"Forduló : {adatok[index].fordulo}");
                 Console.WriteLine($"Forduló : {adatok[index].fordulo}");
                 Console.WriteLine($"Telitalálat : {adatok[index].t13p1} db");
                 Console.WriteLine($"Nyeremény : {adatok[index].ny13p1} Ft");
@@ -133,23 +132,25 @@ namespace Toto
             //olyan forduló, ahol a 13 + 1 mérkőzés eredménye nem tartalmazott döntetlent! A keresést
             //ne folytassa, ha a választ meg tudja adni! A megállapítását írja a képernyőre!
 
-
+            int szamlalo = 0;
             foreach (var item in adatok)
             {
                 EredmenyElemzo elemzo = new EredmenyElemzo(item.eredmenyek);
-                if( !elemzo.NemvoltDontetlenMerkozes)
+                if( elemzo.NemvoltDontetlenMerkozes)
                 {
-                    Console.WriteLine($"Nem  volt döntetlen nélküli forduló!");
-                    Console.ReadKey();
-                    return;
+                    szamlalo++;               
+                  
                 }
            
             }
-            Console.WriteLine($"Volt döntetlen nélküli forduló!");
+
+            if(szamlalo==0)
+                 Console.WriteLine($"Nem  volt döntetlen nélküli forduló!");
+            else
+                 Console.WriteLine($"Volt döntetlen nélküli forduló!");
+           
+            
             Console.ReadKey();
-
-
-
 
 
         }

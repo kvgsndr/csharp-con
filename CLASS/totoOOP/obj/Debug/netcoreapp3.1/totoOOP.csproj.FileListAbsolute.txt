@@ -1,0 +1,14 @@
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\totoOOP\obj\Debug\netcoreapp3.1\totoOOP.csprojAssemblyReference.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\totoOOP\obj\Debug\netcoreapp3.1\totoOOP.AssemblyInfoInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\totoOOP\obj\Debug\netcoreapp3.1\totoOOP.AssemblyInfo.cs
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\totoOOP\obj\Debug\netcoreapp3.1\totoOOP.csproj.CoreCompileInputs.cache
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\totoOOP\bin\Debug\netcoreapp3.1\totoOOP.exe
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\totoOOP\bin\Debug\netcoreapp3.1\toto.txt
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\totoOOP\bin\Debug\netcoreapp3.1\totoOOP.deps.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\totoOOP\bin\Debug\netcoreapp3.1\totoOOP.runtimeconfig.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\totoOOP\bin\Debug\netcoreapp3.1\totoOOP.runtimeconfig.dev.json
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\totoOOP\bin\Debug\netcoreapp3.1\totoOOP.dll
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\totoOOP\bin\Debug\netcoreapp3.1\totoOOP.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\totoOOP\obj\Debug\netcoreapp3.1\totoOOP.dll
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\totoOOP\obj\Debug\netcoreapp3.1\totoOOP.pdb
+C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\CLASS\totoOOP\obj\Debug\netcoreapp3.1\totoOOP.genruntimeconfig.cache
