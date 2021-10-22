@@ -1,5 +1,0 @@
-C:\Documents and Settings\bekefi\Local Settings\Application Data\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-C:\Documents and Settings\bekefi\Local Settings\Application Data\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-C:\Documents and Settings\bekefi\Local Settings\Application Data\Temporary Projects\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\bekefi\Local Settings\Application Data\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-C:\Documents and Settings\bekefi\Local Settings\Application Data\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

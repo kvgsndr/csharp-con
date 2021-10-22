@@ -1,5 +1,0 @@
-D:\Csp\stat\stat\bin\Debug\stat.exe
-D:\Csp\stat\stat\bin\Debug\stat.pdb
-D:\Csp\stat\stat\obj\Debug\ResolveAssemblyReference.cache
-D:\Csp\stat\stat\obj\Debug\stat.exe
-D:\Csp\stat\stat\obj\Debug\stat.pdb

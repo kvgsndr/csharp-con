@@ -1,7 +1,0 @@
-C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\függvények1\obj\Debug\függvények1.csprojAssemblyReference.cache
-C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\függvények1\obj\Debug\függvények1.csproj.CoreCompileInputs.cache
-C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\függvények1\bin\Debug\függvények1.exe.config
-C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\függvények1\bin\Debug\függvények1.exe
-C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\függvények1\bin\Debug\függvények1.pdb
-C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\függvények1\obj\Debug\függvények1.exe
-C:\Users\kovagosandor\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\Türr\source\repos\csharp-con\függvények1\obj\Debug\függvények1.pdb

@@ -1,5 +1,0 @@
-D:\pakol\H\uto\uto\bin\Debug\uto.exe
-D:\pakol\H\uto\uto\bin\Debug\uto.pdb
-D:\pakol\H\uto\uto\obj\Debug\ResolveAssemblyReference.cache
-D:\pakol\H\uto\uto\obj\Debug\uto.exe
-D:\pakol\H\uto\uto\obj\Debug\uto.pdb
