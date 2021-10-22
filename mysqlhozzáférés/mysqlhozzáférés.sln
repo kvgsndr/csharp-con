@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mysqlhozzáférés", "mysqlhozzáférés.csproj", "{CCF23246-B15A-405B-81C4-1FAA8D69C49A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCF23246-B15A-405B-81C4-1FAA8D69C49A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF23246-B15A-405B-81C4-1FAA8D69C49A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF23246-B15A-405B-81C4-1FAA8D69C49A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF23246-B15A-405B-81C4-1FAA8D69C49A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCD4795A-2504-4084-ABBE-30726C399959}
+	EndGlobalSection
+EndGlobal
