@@ -1,5 +1,0 @@
-D:\Csp\hoingas\hoingas\obj\Debug\hoingas.exe
-D:\Csp\hoingas\hoingas\obj\Debug\hoingas.pdb
-D:\Csp\hoingas\hoingas\bin\Debug\hoingas.exe
-D:\Csp\hoingas\hoingas\bin\Debug\hoingas.pdb
-D:\Csp\hoingas\hoingas\obj\Debug\ResolveAssemblyReference.cache

@@ -1,5 +1,0 @@
-obj\Debug\ResolveAssemblyReference.cache
-bin\Debug\hoingas.exe
-bin\Debug\hoingas.pdb
-obj\Debug\hoingas.exe
-obj\Debug\hoingas.pdb
