@@ -93,6 +93,45 @@ namespace karacsonyCLI
             }
             Console.WriteLine($"6. feladat: Angyalka={angy} Fenyőfa={feny} Harang={har}");
 
+            //7. feladat
+            angy = 0;
+            feny = 0;
+            har = 0;
+            for (int i = 0; i < 40; i++)
+            {
+                angy +=  -napiMunkak[i].AngyalkaEladott;
+                feny +=  -napiMunkak[i].FenyofaEladott;
+                har +=   -napiMunkak[i].HarangEladott;
+            }
+
+            int max = -1;
+            if (angy > max) max = angy;
+            if (feny > max) max = feny;
+            if (har > max) max = har;
+            Console.WriteLine("7.feladat: Legtöbbet eladott dísz {0} darab", max);
+            if (max == angy) Console.WriteLine("\tAngyalka");
+            if (max == feny) Console.WriteLine("\tFenyőfa");
+            if (max == har) Console.WriteLine("\tHarang");
+
+            //8. feladat
+            StreamWriter fki = new StreamWriter("bevetel.txt");
+
+            int tizezerFelett = 0;
+            for(int i=0; i<napiMunkak.Count;i++)
+            {
+                if( napiMunkak[i].NapiBevetel()>=10000)
+                {
+                    tizezerFelett++;
+                    fki.WriteLine("{0}:{1}", i + 1, napiMunkak[i].NapiBevetel());
+                }
+            }
+            fki.WriteLine("{0} napon volt legalább 10000 Ft a bevétel", tizezerFelett);
+
+            fki.Close();
+
+
+
+
         }
     }
 }
