@@ -15,22 +15,25 @@ namespace mysqlhozzáférés
                                                              "user=root; " +
                                                              "database=teszt; " +
                                                              "password="))
-            {   con.Open(); 
-                //MySqlCommand cmd = new MySqlCommand("CREATE TABLE table_1 (name VARCHAR(30), birth_date DATE, sex CHAR(1), country VARCHAR(40));", con);
-                //MySqlDataReader reader=cmd.ExecuteReader();
-                MySqlCommand cmd2 = new MySqlCommand("INSERT INTO  " +
-                    "table_1 (name,birth_date,sex,country) VALUES " +
-                    " ('Hajni', '1976-07-05', 'F','Jugoszlavia');", con);
-                MySqlDataReader reader = cmd2.ExecuteReader();
-                reader.Close();
+            {   con.Open();
+
+                MySqlCommand cmd = new MySqlCommand("CREATE TABLE  IF NOT EXISTS tabla1 (name VARCHAR(30), birth_date DATE, sex CHAR(1), country VARCHAR(40));", con);
                 
-                MySqlCommand cmd3= new MySqlCommand("SELECT * FROM table_1;",con);
-                MySqlDataReader reader1 = cmd3.ExecuteReader();
+                cmd.ExecuteNonQuery();
+                
+                MySqlCommand cmd2 = new MySqlCommand("INSERT INTO  " +
+                    "tabla1 (name,birth_date,sex,country) VALUES " +
+                    " ('Hajni', '1976-07-05', 'F','Jugoszlavia');", con);
+                cmd2.ExecuteNonQueryAsync();
+                
+
+                MySqlCommand cmd3 = new MySqlCommand("SELECT DISTINCT * FROM tabla1;",con);
+                MySqlDataReader reader=cmd3.ExecuteReader();
 
                 int sor = 0;
-                while (reader1.Read())
+                while (reader.Read())
                 {
-                    Console.WriteLine($"{sor++ +1} {reader1["name"]}\t{ reader1["birth_date"]}\t{reader1[2]}\t{reader1[3]}");
+                    Console.WriteLine($"{sor++ +1} {reader["name"]}\t{ reader["birth_date"]}\t{reader[2]}\t{reader[3]}");
                 }
                 
             }
