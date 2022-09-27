@@ -20,14 +20,10 @@ namespace macska
 
             set 
             {
-                if(value>0.2)
+                if(value>0.2 && value< 500)
                    suly = value;
             }
         }
-
-        
-
-
 
         //konstruktorok
         public Macska(string nev, double suly, bool ehes)
@@ -36,6 +32,7 @@ namespace macska
             this.Nev = nev;
             this.Ehes = ehes;
         }
+
         public Macska(string nev, double suly)
         {
             Nev = nev;
@@ -66,7 +63,5 @@ namespace macska
         {   string éhes= Ehes ? "Igen" : "Nem";
             Console.WriteLine($"Név: {Nev} Súly: {suly} Éhes: {éhes}");
         }
-
-
     }
 }

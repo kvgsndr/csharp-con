@@ -1,0 +1,20 @@
+﻿<Window x:Class="filebeolvas.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:filebeolvas"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="574">
+    <Grid>
+
+        <Label x:Name="lbSzoveg" Content="File neve:" HorizontalAlignment="Left" Height="32" Margin="40,38,0,0" VerticalAlignment="Top" Width="86"/>
+        <TextBox x:Name="txbFileName" HorizontalAlignment="Left" Height="32" Margin="158,38,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="217" TextChanged="txbFileName_TextChanged"/>
+        <Button x:Name="btOk" Content="OK" HorizontalAlignment="Left" Height="32" Margin="423,38,0,0" VerticalAlignment="Top" Width="81" Click="btOk_Click"/>
+        <ListBox x:Name="lbxTartalom" HorizontalAlignment="Left" Height="237" Margin="40,108,0,0" VerticalAlignment="Top" Width="210" SelectionChanged="lbxTartalom_SelectionChanged"/>
+        <Label x:Name="lbSor" Content="Label" HorizontalAlignment="Left" Height="42" Margin="40,366,0,0" VerticalAlignment="Top" Width="455" Grid.ColumnSpan="2"/>
+        <ComboBox x:Name="cmbxLista" Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="40" Margin="360,108,0,0" VerticalAlignment="Top" Width="163"/>
+        <Button Content="-->" HorizontalAlignment="Left" Height="62" Margin="282,164,0,0" VerticalAlignment="Top" Width="64" Click="Button_Click"/>
+
+    </Grid>
+</Window>

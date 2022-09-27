@@ -3,7 +3,7 @@
 namespace allat_osztály
 {   class Allat
     {
-       private string nev;
+        private string nev;
         protected int szomj;
         protected int ehseg;
 
@@ -30,7 +30,7 @@ namespace allat_osztály
         }
         public virtual void kiir()
         {
-            Console.WriteLine("Név: {0}, Szomj: {1}, Éhség: {2}", Nev, szomj,ehseg) ;
+          Console.WriteLine("Név: {0}, Szomj: {1}, Éhség: {2}", Nev, szomj, ehseg);
         }
 
     }
@@ -60,6 +60,8 @@ namespace allat_osztály
             Allat b = new Allat("Cirmi", 30, 20);
             a.kiir();
             a.iszik();
+			//a.nev="Buksi"; NEM MŰKÖDIK
+			a.Nev ="Buksi";
             a.jatszik();
             a.jatszik();
             a.kiir();
